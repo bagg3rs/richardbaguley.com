@@ -1,19 +1,19 @@
 {
-  "name": "react-spa-template",
+  "name": "richardbaguley.com",
   "version": "0.1.0",
-  "description": "React Single Page App template without CRA",
+  "description": "React Single Page App template without CRA from ofnullable/react-spa-template",
   "main": "src/index.js",
-  "hompage": "https://ofnullable.github.io/react-spa-template",
-  "repository": "https://github.com/ofnullable/react-spa-template",
-  "author": "ofnullable <ofnullable@gmail.com>",
+  "hompage": "https://richardbaguley.com",
+  "repository": "https://github.com/bagg3rs/richardbaguley.com",
+  "author": "bagg3rs <richie.baguley@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=10",
     "npm": ">=6"
   },
   "bugs": {
-    "url": "http://github.com/ofnullable/react-spa-template/issues",
-    "email": "ofnullable@gmail.com"
+    "url": "http://github.com/bagg3rs/richardbaguley.com/issues",
+    "email": "richie.baguley@gmail.com"
   },
   "scripts": {
     "start": "NODE_ENV=development webpack serve --progress",
@@ -26,7 +26,8 @@
     "@emotion/react": "^11.8.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-router-dom": "^6.2.2"
+    "react-router-dom": "^6.2.2",
+    "react-social-icons": "^5.10.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.8",
