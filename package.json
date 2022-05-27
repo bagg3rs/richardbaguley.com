@@ -60,7 +60,7 @@
     "postcss-import": "14.1.0",
     "postcss-loader": "6.2.1",
     "postcss-preset-env": "7.4.3",
-    "prettier": "2.6.0",
+    "prettier": "2.6.2",
     "reset-css": "5.0.1",
     "sass-loader": "12.6.0",
     "style-loader": "3.3.1",
