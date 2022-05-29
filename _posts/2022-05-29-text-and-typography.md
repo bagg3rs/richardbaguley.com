@@ -6,7 +6,7 @@ categories: [Typography, Markup]
 
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), use it as an example for writing new content.
+This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork).
 
 
 ## Titles
