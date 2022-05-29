@@ -7,7 +7,7 @@ Hello 👋
 I am Richard Baguley a Lead Technical Architect working at the Ministry of Justice.
 
 ## Latest work
- Working on the Prison Technology Transformation Programme working on [Cloud First](https://www.gov.uk/guidance/government-cloud-first-policy) products, which enable staff to use modern devices where previously using technology over 10years old. these solutions container based solutions which supports over 50k users with networking services.
+[MoJ](https://www.gov.uk/government/organisations/ministry-of-justice) - Prison Technology Transformation Programme - Developing and building an internal team to deploy [Cloud First](https://www.gov.uk/guidance/government-cloud-first-policy) container based networking services to 50k users to enable modern devices.
 
  - AWS
  - Azure
