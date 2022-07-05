@@ -1,7 +1,7 @@
 ---
 title: ✨Latest work
 author: bagg3rs
-date: 2022-05-30 09:12:00 +0800
+date: 2022-05-30 09:12:00 +0000
 categories: [work]
 pin: true
 ---
