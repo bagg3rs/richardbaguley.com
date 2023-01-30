@@ -16,7 +16,7 @@ I am Richard Baguley a Lead Technical Architect working at the Ministry of Justi
 > - AWS
 > - Azure
 > - CI/CD
-> - Terraform
+> - Infrastructure as Code
 
 > Check my social links on the bottom left hand for [`GitHub`](https://github.com/bagg3rs) and [`LinkedIn`](https://uk.linkedin.com/in/rbaguley) etc 
 {: .prompt-tip }
