@@ -1,0 +1,10 @@
+documentation:
+  - "docs/**"
+  - "README.md"
+  - "source/**"
+
+github-workflow:
+  - ".github/workflows/**"
+
+test:
+  - "tools/test.sh"
