@@ -4,14 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 Hello 👋
-I am Richard Baguley a Lead Technical Architect working at the Ministry of Justice.
+I am Richard Baguley a Principal Technical Architect working at the Ministry of Justice.
 
 ## Latest work
-[Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice) - `Lead Technical Architect` [Analytical Platform](https://user-guidance.services.alpha.mojanalytics.xyz/about.html#about-the-analytical-platform)
+[Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice) - `Principal Technical Architect` [Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/)
+> The Analytical Platform provides users with a place to store, ingest and consume data. Since joining I have worked on securing the environment with the team by;
+> - Removing IAM access and AWS SSO for platform and data engineer access
+> - Closing down unsupported clusters and moving workloads to our strategic container platform
+> - Cost optimisation of Analytical tooling workloads
+> - Moving team to one tool for issue and work management reducing context switching
 
 [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice) - `Lead Technical Architect` Cloud Services for Prison Technology Transformation Programme
 
-> Developing and building an internal team to deploy [Cloud First](https://www.gov.uk/guidance/government-cloud-first-policy) container based networking services to 50k users to enable modern devices in prisons.
+> Building an internal team to deploy [Cloud First](https://www.gov.uk/guidance/government-cloud-first-policy) container based networking service. This has enabled modern devices in prisons for over 50k staff.
 >
 > - AWS
 > - Azure
