@@ -23,7 +23,7 @@ timezone: Europe/London
 
 title: Richard Baguley                       # the main title
 
-tagline: Richard Baguley is a Lead Technical Architect doing computer stuff at MoJ  # it will display as the sub-title
+tagline: Richard Baguley is a Principal Technical Architect doing computer stuff at MoJ  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Richard Baguley a London based Technical Architect
