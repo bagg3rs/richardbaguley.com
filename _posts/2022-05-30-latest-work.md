@@ -1,14 +1,14 @@
 ---
 title: ✨Latest work
 author: bagg3rs
-date: 2022-05-30 09:12:00 +0000
+date: 2024-07-16 14:51:00 +0000
 categories: [work]
 pin: true
 ---
 
-I am currently working at `Ministry of Justice` as [`Lead Technical Architect`](https://www.gov.uk/guidance/technical-architect#lead-technical-architect) on the Analytical Platform.
+I am currently working at `Ministry of Justice` as [`Principal Technical Architect`](https://www.gov.uk/guidance/technical-architect#lead-technical-architect) on the [Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/).
 
-Previously at `Ministry of Justice` on the Prisons Technology Transformation Programme bringing Infrastrcuture as Code, AWS, Terraform, containers and DevOps capabilities to Technology Services.
+Previously at `Ministry of Justice` on the Prisons Technology Transformation Programme bringing DevOps capabilities to Technology Services, including Terraform, versioning and CI/CD.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagg3rs&theme=github_dark&show_icons=true)](https://github.com/bagg3rs/github-readme-stats)
 
