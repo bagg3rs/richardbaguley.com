@@ -20,7 +20,7 @@ Check out my [GitHub profile](https://github.com/bagg3rs) for what I'm currently
 
 Recently starred: [qmd](https://github.com/tobi/qmd) (mini CLI search engine for docs), [strands-agents](https://github.com/strands-agents/sdk-python) (model-driven AI agents), and various AWS agent/robotics samples.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagg3rs&theme=github_dark&show_icons=true)](https://github.com/bagg3rs/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagg3rs&theme=github_dark&show_icons=true)](https://github.com/bagg3rs)
 
 ---
 
