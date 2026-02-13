@@ -1,5 +1,5 @@
 ---
-title: ✨Latest work
+title: Now
 author: bagg3rs
 date: 2026-02-13 10:49:00 +0000
 categories: [work]
