@@ -7,8 +7,8 @@ Hello 👋
 I am Richard Baguley, a Senior Solutions Architect working at Amazon Web Services (AWS).
 
 ## Latest work
-[Amazon Web Services](https://aws.amazon.com/) - `Senior Solutions Architect`
-> Working with customers to design and implement cloud solutions on AWS.
+[Amazon Web Services](https://aws.amazon.com/) - `Customer Solutions Architect` (UK Defense & Intelligence)
+> Working with UK defense and government customers to design and implement cloud solutions on AWS, specializing in data analytics, AI/ML, and secure cloud platforms.
 
 ## Previous roles
 [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice) - `Principal Technical Architect` [Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/)
